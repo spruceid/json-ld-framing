@@ -1,0 +1,15 @@
+[package]
+name = "json-ld-framing"
+version = "0.0.0"
+authors = [
+	"Spruce Systems, Inc.",
+	"Timothée Haudebourg <timothee@haudebourg.net>"
+]
+edition = "2021"
+categories = ["web-programming", "database", "data-structures"]
+keywords = ["json-ld", "framing", "semantic-web", "linked-data", "rdf"]
+description = "JSON-LD framing"
+repository = "https://github.com/spruceid/json-ld-framing"
+documentation = "https://docs.rs/json-ld-framing"
+license = "Apache-2.0"
+readme = "README.md" # `cargo-readme` is used to generate this file.
